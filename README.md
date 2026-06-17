@@ -18,13 +18,12 @@
 
 Hi, I'm **Sai KondaReddy**, a passionate student exploring the world of web development. I enjoy building modern web applications with React and Express while continuously learning new technologies.
 
-I also love sharing my journey and connecting with people through content creation and social platforms.
+I also love sharing my journey and connecting with people.
 
 ### 🌟 A Few Things About Me
 
 * 💻 Currently learning and building with React & Express
 * 🚀 Working on improving my frontend and backend skills
-* 📸 Active on Instagram sharing moments and experiences
 * 🎯 Goal: Become a skilled Full Stack Developer
 * ☕ I enjoy solving real-world problems through code
 
