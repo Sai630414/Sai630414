@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
-# Hi 👋, I'm Sai KondaReddy.
+# Hi 👋, I'm Sai KondaReddy
 
 ![](https://komarev.com/ghpvc/?username=Sai630414\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
 
